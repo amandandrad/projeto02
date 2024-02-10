@@ -5,7 +5,7 @@ Projeto desenvolvido em conjunto durante os estudos da trilha Explorer da Rocket
 </p>
 
 <p align="center">
-  <img alt="Projeto 02" src="./images/depois.png">
+  <img alt="Projeto 02" src="./images/preview.png">
 </p>
 
 #### Esse projeto foi desenvolvido com as seguintes tecnologias:
